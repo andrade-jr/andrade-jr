@@ -1,16 +1,13 @@
-### Hi there 👋
+## Paulinho Andrade :boom:
 
-<!--
-**andrade-jr/andrade-jr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:penguin: Linux 
+- kubuntu LTS
 
-Here are some ideas to get you started:
+:scroll: Certificações:
+  - [LPIC-1](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000509855/f37vd3vpq8)
+  - [EXIN Certified Data Protection Officer](https://app.exeed.pro/holder/badge/76395)
+  - [EXIN Privacy and Data Protection Practitioner](https://app.exeed.pro/holder/badge/76394)
+  - [EXIN Information Security Foundation based on ISO/IEC 27001](https://app.exeed.pro/holder/badge/66915)
+  - [EXIN Privacy and Data Protection Foundation](https://app.exeed.pro/holder/badge/65513)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:information_source: [LinkedIn](https://www.linkedin.com/in/-paulof/)
