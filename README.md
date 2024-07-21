@@ -11,4 +11,6 @@
   - [EXIN Information Security Foundation based on ISO/IEC 27001](https://app.exeed.pro/holder/badge/66915)
   - [EXIN Privacy and Data Protection Foundation](https://app.exeed.pro/holder/badge/65513)
 
-[LinkedIn](https://www.linkedin.com/in/-paulof/)
+  <a href="https://www.linkedin.com/in/-paulof/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
